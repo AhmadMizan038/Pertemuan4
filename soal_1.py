@@ -1,4 +1,4 @@
-#input data
+#input data in
 try :
     suhu = float(input("Inputkan Besaran Suhu :"))
 except ValueError as e :
